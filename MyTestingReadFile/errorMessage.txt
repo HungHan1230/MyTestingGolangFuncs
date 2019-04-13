@@ -1,0 +1,393 @@
+../../fuse/mount/fuse.go:12:2: cannot find package "bazil.org/fuse" in any of:
+	/usr/local/go/src/bazil.org/fuse (from $GOROOT)
+	/home/hank/go/src/bazil.org/fuse (from $GOPATH)
+../../fuse/mount/fuse.go:13:2: cannot find package "bazil.org/fuse/fs" in any of:
+	/usr/local/go/src/bazil.org/fuse/fs (from $GOROOT)
+	/home/hank/go/src/bazil.org/fuse/fs (from $GOPATH)
+main.go:24:2: cannot find package "github.com/Kubuxu/go-os-helper" in any of:
+	/usr/local/go/src/github.com/Kubuxu/go-os-helper (from $GOROOT)
+	/home/hank/go/src/github.com/Kubuxu/go-os-helper (from $GOPATH)
+../../namesys/proquint.go:7:2: cannot find package "github.com/bren2010/proquint" in any of:
+	/usr/local/go/src/github.com/bren2010/proquint (from $GOROOT)
+	/home/hank/go/src/github.com/bren2010/proquint (from $GOPATH)
+../../exchange/reprovide/reprovide.go:8:2: cannot find package "github.com/cenkalti/backoff" in any of:
+	/usr/local/go/src/github.com/cenkalti/backoff (from $GOROOT)
+	/home/hank/go/src/github.com/cenkalti/backoff (from $GOPATH)
+../../plugin/plugins/badgerds/badgerds.go:12:2: cannot find package "github.com/dustin/go-humanize" in any of:
+	/usr/local/go/src/github.com/dustin/go-humanize (from $GOROOT)
+	/home/hank/go/src/github.com/dustin/go-humanize (from $GOPATH)
+../../core/commands/config.go:17:2: cannot find package "github.com/elgris/jsondiff" in any of:
+	/usr/local/go/src/github.com/elgris/jsondiff (from $GOROOT)
+	/home/hank/go/src/github.com/elgris/jsondiff (from $GOPATH)
+../../pin/set.go:15:2: cannot find package "github.com/gogo/protobuf/proto" in any of:
+	/usr/local/go/src/github.com/gogo/protobuf/proto (from $GOROOT)
+	/home/hank/go/src/github.com/gogo/protobuf/proto (from $GOPATH)
+../../namesys/namesys.go:8:2: cannot find package "github.com/hashicorp/golang-lru" in any of:
+	/usr/local/go/src/github.com/hashicorp/golang-lru (from $GOROOT)
+	/home/hank/go/src/github.com/hashicorp/golang-lru (from $GOPATH)
+../../core/corehttp/proxy.go:13:2: cannot find package "github.com/hsanjuan/go-libp2p-http" in any of:
+	/usr/local/go/src/github.com/hsanjuan/go-libp2p-http (from $GOROOT)
+	/home/hank/go/src/github.com/hsanjuan/go-libp2p-http (from $GOPATH)
+../../assets/assets.go:20:2: cannot find package "github.com/ipfs/dir-index-html" in any of:
+	/usr/local/go/src/github.com/ipfs/dir-index-html (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/dir-index-html (from $GOPATH)
+../../core/core.go:34:2: cannot find package "github.com/ipfs/go-bitswap" in any of:
+	/usr/local/go/src/github.com/ipfs/go-bitswap (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-bitswap (from $GOPATH)
+../../core/commands/bitswap.go:12:2: cannot find package "github.com/ipfs/go-bitswap/decision" in any of:
+	/usr/local/go/src/github.com/ipfs/go-bitswap/decision (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-bitswap/decision (from $GOPATH)
+../../core/core.go:35:2: cannot find package "github.com/ipfs/go-bitswap/network" in any of:
+	/usr/local/go/src/github.com/ipfs/go-bitswap/network (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-bitswap/network (from $GOPATH)
+../../filestore/filestore.go:14:2: cannot find package "github.com/ipfs/go-block-format" in any of:
+	/usr/local/go/src/github.com/ipfs/go-block-format (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-block-format (from $GOPATH)
+../../core/builder.go:20:2: cannot find package "github.com/ipfs/go-blockservice" in any of:
+	/usr/local/go/src/github.com/ipfs/go-blockservice (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-blockservice (from $GOPATH)
+../../assets/assets.go:14:2: cannot find package "github.com/ipfs/go-cid" in any of:
+	/usr/local/go/src/github.com/ipfs/go-cid (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-cid (from $GOPATH)
+../../exchange/reprovide/providers.go:9:2: cannot find package "github.com/ipfs/go-cidutil" in any of:
+	/usr/local/go/src/github.com/ipfs/go-cidutil (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-cidutil (from $GOPATH)
+../../core/commands/files.go:19:2: cannot find package "github.com/ipfs/go-cidutil/cidenc" in any of:
+	/usr/local/go/src/github.com/ipfs/go-cidutil/cidenc (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-cidutil/cidenc (from $GOPATH)
+../../core/builder.go:21:2: cannot find package "github.com/ipfs/go-datastore" in any of:
+	/usr/local/go/src/github.com/ipfs/go-datastore (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-datastore (from $GOPATH)
+../../repo/fsrepo/datastores.go:12:2: cannot find package "github.com/ipfs/go-datastore/mount" in any of:
+	/usr/local/go/src/github.com/ipfs/go-datastore/mount (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-datastore/mount (from $GOPATH)
+../../filestore/fsrefstore.go:17:2: cannot find package "github.com/ipfs/go-datastore/namespace" in any of:
+	/usr/local/go/src/github.com/ipfs/go-datastore/namespace (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-datastore/namespace (from $GOPATH)
+../../filestore/filestore.go:16:2: cannot find package "github.com/ipfs/go-datastore/query" in any of:
+	/usr/local/go/src/github.com/ipfs/go-datastore/query (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-datastore/query (from $GOPATH)
+../../core/builder.go:22:2: cannot find package "github.com/ipfs/go-datastore/retrystore" in any of:
+	/usr/local/go/src/github.com/ipfs/go-datastore/retrystore (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-datastore/retrystore (from $GOPATH)
+../../core/builder.go:23:2: cannot find package "github.com/ipfs/go-datastore/sync" in any of:
+	/usr/local/go/src/github.com/ipfs/go-datastore/sync (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-datastore/sync (from $GOPATH)
+../../plugin/plugins/badgerds/badgerds.go:13:2: cannot find package "github.com/ipfs/go-ds-badger" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ds-badger (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ds-badger (from $GOPATH)
+../../plugin/plugins/flatfs/flatfs.go:11:2: cannot find package "github.com/ipfs/go-ds-flatfs" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ds-flatfs (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ds-flatfs (from $GOPATH)
+../../plugin/plugins/levelds/levelds.go:11:2: cannot find package "github.com/ipfs/go-ds-leveldb" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ds-leveldb (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ds-leveldb (from $GOPATH)
+../../repo/fsrepo/datastores.go:14:2: cannot find package "github.com/ipfs/go-ds-measure" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ds-measure (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ds-measure (from $GOPATH)
+../../repo/fsrepo/fsrepo.go:23:2: cannot find package "github.com/ipfs/go-fs-lock" in any of:
+	/usr/local/go/src/github.com/ipfs/go-fs-lock (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-fs-lock (from $GOPATH)
+../../core/coreapi/swarm.go:8:2: cannot find package "github.com/ipfs/go-ipfs-addr" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-addr (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-addr (from $GOPATH)
+../../core/builder.go:24:2: cannot find package "github.com/ipfs/go-ipfs-blockstore" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-blockstore (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-blockstore (from $GOPATH)
+../../core/coreunix/add.go:15:2: cannot find package "github.com/ipfs/go-ipfs-chunker" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-chunker (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-chunker (from $GOPATH)
+daemon.go:27:2: cannot find package "github.com/ipfs/go-ipfs-cmdkit" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-cmdkit (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-cmdkit (from $GOPATH)
+daemon.go:28:2: cannot find package "github.com/ipfs/go-ipfs-cmds" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-cmds (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-cmds (from $GOPATH)
+main.go:26:2: cannot find package "github.com/ipfs/go-ipfs-cmds/cli" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-cmds/cli (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-cmds/cli (from $GOPATH)
+main.go:27:2: cannot find package "github.com/ipfs/go-ipfs-cmds/http" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-cmds/http (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-cmds/http (from $GOPATH)
+init.go:21:2: cannot find package "github.com/ipfs/go-ipfs-config" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-config (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-config (from $GOPATH)
+../../repo/fsrepo/fsrepo.go:25:2: cannot find package "github.com/ipfs/go-ipfs-config/serialize" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-config/serialize (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-config/serialize (from $GOPATH)
+../../filestore/fsrefstore.go:20:2: cannot find package "github.com/ipfs/go-ipfs-ds-help" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-ds-help (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-ds-help (from $GOPATH)
+../../core/core.go:41:2: cannot find package "github.com/ipfs/go-ipfs-exchange-interface" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-exchange-interface (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-exchange-interface (from $GOPATH)
+../../core/builder.go:26:2: cannot find package "github.com/ipfs/go-ipfs-exchange-offline" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-exchange-offline (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-exchange-offline (from $GOPATH)
+init.go:22:2: cannot find package "github.com/ipfs/go-ipfs-files" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-files (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-files (from $GOPATH)
+../../filestore/filestore.go:18:2: cannot find package "github.com/ipfs/go-ipfs-posinfo" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-posinfo (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-posinfo (from $GOPATH)
+../../core/core.go:42:2: cannot find package "github.com/ipfs/go-ipfs-routing/none" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-routing/none (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-routing/none (from $GOPATH)
+../../core/builder.go:27:2: cannot find package "github.com/ipfs/go-ipfs-routing/offline" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-routing/offline (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-routing/offline (from $GOPATH)
+main.go:29:2: cannot find package "github.com/ipfs/go-ipfs-util" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipfs-util (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipfs-util (from $GOPATH)
+../../core/coredag/cbor.go:7:2: cannot find package "github.com/ipfs/go-ipld-cbor" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipld-cbor (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipld-cbor (from $GOPATH)
+../../dagutils/diff.go:9:2: cannot find package "github.com/ipfs/go-ipld-format" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipld-format (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipld-format (from $GOPATH)
+../../plugin/plugins/git/git.go:14:2: cannot find package "github.com/ipfs/go-ipld-git" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipld-git (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipld-git (from $GOPATH)
+../../namesys/publisher.go:14:2: cannot find package "github.com/ipfs/go-ipns" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipns (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipns (from $GOPATH)
+../../namesys/publisher.go:15:2: cannot find package "github.com/ipfs/go-ipns/pb" in any of:
+	/usr/local/go/src/github.com/ipfs/go-ipns/pb (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-ipns/pb (from $GOPATH)
+../../pin/pin.go:18:2: cannot find package "github.com/ipfs/go-log" in any of:
+	/usr/local/go/src/github.com/ipfs/go-log (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-log (from $GOPATH)
+../../core/commands/log.go:10:2: cannot find package "github.com/ipfs/go-log/writer" in any of:
+	/usr/local/go/src/github.com/ipfs/go-log/writer (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-log/writer (from $GOPATH)
+../../dagutils/diff.go:10:2: cannot find package "github.com/ipfs/go-merkledag" in any of:
+	/usr/local/go/src/github.com/ipfs/go-merkledag (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-merkledag (from $GOPATH)
+../../core/coreapi/unixfs.go:20:2: cannot find package "github.com/ipfs/go-merkledag/test" in any of:
+	/usr/local/go/src/github.com/ipfs/go-merkledag/test (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-merkledag/test (from $GOPATH)
+../../core/builder.go:30:2: cannot find package "github.com/ipfs/go-metrics-interface" in any of:
+	/usr/local/go/src/github.com/ipfs/go-metrics-interface (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-metrics-interface (from $GOPATH)
+daemon.go:29:2: cannot find package "github.com/ipfs/go-metrics-prometheus" in any of:
+	/usr/local/go/src/github.com/ipfs/go-metrics-prometheus (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-metrics-prometheus (from $GOPATH)
+../../core/core.go:47:2: cannot find package "github.com/ipfs/go-mfs" in any of:
+	/usr/local/go/src/github.com/ipfs/go-mfs (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-mfs (from $GOPATH)
+../../dagutils/utils.go:9:2: cannot find package "github.com/ipfs/go-path" in any of:
+	/usr/local/go/src/github.com/ipfs/go-path (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-path (from $GOPATH)
+../../core/builder.go:31:2: cannot find package "github.com/ipfs/go-path/resolver" in any of:
+	/usr/local/go/src/github.com/ipfs/go-path/resolver (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-path/resolver (from $GOPATH)
+../../namesys/publisher.go:17:2: cannot find package "github.com/ipfs/go-unixfs" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs (from $GOPATH)
+../../core/coreapi/unixfs.go:23:2: cannot find package "github.com/ipfs/go-unixfs/file" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/file (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/file (from $GOPATH)
+../../tar/format.go:14:2: cannot find package "github.com/ipfs/go-unixfs/importer" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/importer (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/importer (from $GOPATH)
+../../core/coreunix/add.go:23:2: cannot find package "github.com/ipfs/go-unixfs/importer/balanced" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/importer/balanced (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/importer/balanced (from $GOPATH)
+../../core/coreunix/add.go:24:2: cannot find package "github.com/ipfs/go-unixfs/importer/helpers" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/importer/helpers (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/importer/helpers (from $GOPATH)
+../../core/coreunix/add.go:25:2: cannot find package "github.com/ipfs/go-unixfs/importer/trickle" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/importer/trickle (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/importer/trickle (from $GOPATH)
+../../core/builder.go:32:2: cannot find package "github.com/ipfs/go-unixfs/io" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/io (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/io (from $GOPATH)
+../../core/commands/ls.go:15:2: cannot find package "github.com/ipfs/go-unixfs/pb" in any of:
+	/usr/local/go/src/github.com/ipfs/go-unixfs/pb (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-unixfs/pb (from $GOPATH)
+../../exchange/reprovide/reprovide.go:11:2: cannot find package "github.com/ipfs/go-verifcid" in any of:
+	/usr/local/go/src/github.com/ipfs/go-verifcid (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/go-verifcid (from $GOPATH)
+../../dagutils/diff.go:11:2: cannot find package "github.com/ipfs/interface-go-ipfs-core" in any of:
+	/usr/local/go/src/github.com/ipfs/interface-go-ipfs-core (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/interface-go-ipfs-core (from $GOPATH)
+../../core/coreapi/block.go:16:2: cannot find package "github.com/ipfs/interface-go-ipfs-core/options" in any of:
+	/usr/local/go/src/github.com/ipfs/interface-go-ipfs-core/options (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/interface-go-ipfs-core/options (from $GOPATH)
+../../namesys/base.go:9:2: cannot find package "github.com/ipfs/interface-go-ipfs-core/options/namesys" in any of:
+	/usr/local/go/src/github.com/ipfs/interface-go-ipfs-core/options/namesys (from $GOROOT)
+	/home/hank/go/src/github.com/ipfs/interface-go-ipfs-core/options/namesys (from $GOPATH)
+../../namesys/dns.go:11:2: cannot find package "github.com/jbenet/go-is-domain" in any of:
+	/usr/local/go/src/github.com/jbenet/go-is-domain (from $GOROOT)
+	/home/hank/go/src/github.com/jbenet/go-is-domain (from $GOPATH)
+../../p2p/local.go:7:2: cannot find package "github.com/jbenet/go-temp-err-catcher" in any of:
+	/usr/local/go/src/github.com/jbenet/go-temp-err-catcher (from $GOROOT)
+	/home/hank/go/src/github.com/jbenet/go-temp-err-catcher (from $GOPATH)
+../../fuse/mount/fuse.go:14:2: cannot find package "github.com/jbenet/goprocess" in any of:
+	/usr/local/go/src/github.com/jbenet/goprocess (from $GOROOT)
+	/home/hank/go/src/github.com/jbenet/goprocess (from $GOPATH)
+../../namesys/republisher/repub.go:17:2: cannot find package "github.com/jbenet/goprocess/context" in any of:
+	/usr/local/go/src/github.com/jbenet/goprocess/context (from $GOROOT)
+	/home/hank/go/src/github.com/jbenet/goprocess/context (from $GOPATH)
+../../core/bootstrap.go:18:2: cannot find package "github.com/jbenet/goprocess/periodic" in any of:
+	/usr/local/go/src/github.com/jbenet/goprocess/periodic (from $GOROOT)
+	/home/hank/go/src/github.com/jbenet/goprocess/periodic (from $GOPATH)
+../../core/builder.go:34:2: cannot find package "github.com/libp2p/go-libp2p" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p (from $GOPATH)
+../../core/core.go:52:2: cannot find package "github.com/libp2p/go-libp2p-autonat-svc" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-autonat-svc (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-autonat-svc (from $GOPATH)
+../../core/core.go:53:2: cannot find package "github.com/libp2p/go-libp2p-circuit" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-circuit (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-circuit (from $GOPATH)
+../../core/core.go:54:2: cannot find package "github.com/libp2p/go-libp2p-connmgr" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-connmgr (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-connmgr (from $GOPATH)
+../../namesys/interface.go:40:2: cannot find package "github.com/libp2p/go-libp2p-crypto" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-crypto (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-crypto (from $GOPATH)
+../../p2p/listener.go:7:2: cannot find package "github.com/libp2p/go-libp2p-host" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-host (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-host (from $GOPATH)
+../../p2p/stream.go:7:2: cannot find package "github.com/libp2p/go-libp2p-interface-connmgr" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-interface-connmgr (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-interface-connmgr (from $GOPATH)
+../../namesys/routing.go:15:2: cannot find package "github.com/libp2p/go-libp2p-kad-dht" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-kad-dht (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-kad-dht (from $GOPATH)
+../../core/core.go:59:2: cannot find package "github.com/libp2p/go-libp2p-kad-dht/opts" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-kad-dht/opts (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-kad-dht/opts (from $GOPATH)
+../../core/commands/id.go:17:2: cannot find package "github.com/libp2p/go-libp2p-kbucket" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-kbucket (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-kbucket (from $GOPATH)
+../../core/bootstrap.go:13:2: cannot find package "github.com/libp2p/go-libp2p-loggables" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-loggables (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-loggables (from $GOPATH)
+../../core/core.go:60:2: cannot find package "github.com/libp2p/go-libp2p-metrics" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-metrics (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-metrics (from $GOPATH)
+../../p2p/listener.go:8:2: cannot find package "github.com/libp2p/go-libp2p-net" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-net (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-net (from $GOPATH)
+../../namesys/namesys.go:14:2: cannot find package "github.com/libp2p/go-libp2p-peer" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-peer (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-peer (from $GOPATH)
+../../p2p/p2p.go:7:2: cannot find package "github.com/libp2p/go-libp2p-peerstore" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-peerstore (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-peerstore (from $GOPATH)
+../../core/builder.go:39:2: cannot find package "github.com/libp2p/go-libp2p-peerstore/pstoremem" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-peerstore/pstoremem (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-peerstore/pstoremem (from $GOPATH)
+../../core/core.go:63:2: cannot find package "github.com/libp2p/go-libp2p-pnet" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-pnet (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-pnet (from $GOPATH)
+../../p2p/listener.go:9:2: cannot find package "github.com/libp2p/go-libp2p-protocol" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-protocol (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-protocol (from $GOPATH)
+../../core/core.go:64:2: cannot find package "github.com/libp2p/go-libp2p-pubsub" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-pubsub (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-pubsub (from $GOPATH)
+../../core/core.go:65:2: cannot find package "github.com/libp2p/go-libp2p-pubsub-router" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-pubsub-router (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-pubsub-router (from $GOPATH)
+../../core/core.go:66:2: cannot find package "github.com/libp2p/go-libp2p-quic-transport" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-quic-transport (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-quic-transport (from $GOPATH)
+../../core/builder.go:40:2: cannot find package "github.com/libp2p/go-libp2p-record" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-record (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-record (from $GOPATH)
+../../exchange/reprovide/reprovide.go:12:2: cannot find package "github.com/libp2p/go-libp2p-routing" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-routing (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-routing (from $GOPATH)
+../../core/core.go:69:2: cannot find package "github.com/libp2p/go-libp2p-routing-helpers" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-routing-helpers (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-routing-helpers (from $GOPATH)
+../../core/commands/dht.go:21:2: cannot find package "github.com/libp2p/go-libp2p-routing/notifications" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-routing/notifications (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-routing/notifications (from $GOPATH)
+../../core/coreapi/swarm.go:15:2: cannot find package "github.com/libp2p/go-libp2p-swarm" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p-swarm (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p-swarm (from $GOPATH)
+../../core/core.go:70:2: cannot find package "github.com/libp2p/go-libp2p/p2p/discovery" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p/p2p/discovery (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p/p2p/discovery (from $GOPATH)
+../../core/core.go:71:2: cannot find package "github.com/libp2p/go-libp2p/p2p/host/basic" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p/p2p/host/basic (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p/p2p/host/basic (from $GOPATH)
+../../core/core.go:72:2: cannot find package "github.com/libp2p/go-libp2p/p2p/host/routed" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p/p2p/host/routed (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p/p2p/host/routed (from $GOPATH)
+../../core/core.go:73:2: cannot find package "github.com/libp2p/go-libp2p/p2p/protocol/identify" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p/p2p/protocol/identify (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p/p2p/protocol/identify (from $GOPATH)
+../../core/commands/ping.go:18:2: cannot find package "github.com/libp2p/go-libp2p/p2p/protocol/ping" in any of:
+	/usr/local/go/src/github.com/libp2p/go-libp2p/p2p/protocol/ping (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-libp2p/p2p/protocol/ping (from $GOPATH)
+../../core/core.go:74:2: cannot find package "github.com/libp2p/go-maddr-filter" in any of:
+	/usr/local/go/src/github.com/libp2p/go-maddr-filter (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-maddr-filter (from $GOPATH)
+../../core/core.go:75:2: cannot find package "github.com/libp2p/go-stream-muxer" in any of:
+	/usr/local/go/src/github.com/libp2p/go-stream-muxer (from $GOROOT)
+	/home/hank/go/src/github.com/libp2p/go-stream-muxer (from $GOPATH)
+../../repo/fsrepo/fsrepo.go:28:2: cannot find package "github.com/mitchellh/go-homedir" in any of:
+	/usr/local/go/src/github.com/mitchellh/go-homedir (from $GOROOT)
+	/home/hank/go/src/github.com/mitchellh/go-homedir (from $GOPATH)
+../../core/commands/dht.go:22:2: cannot find package "github.com/mr-tron/base58/base58" in any of:
+	/usr/local/go/src/github.com/mr-tron/base58/base58 (from $GOROOT)
+	/home/hank/go/src/github.com/mr-tron/base58/base58 (from $GOPATH)
+../../p2p/listener.go:10:2: cannot find package "github.com/multiformats/go-multiaddr" in any of:
+	/usr/local/go/src/github.com/multiformats/go-multiaddr (from $GOROOT)
+	/home/hank/go/src/github.com/multiformats/go-multiaddr (from $GOPATH)
+../../core/commands/p2p.go:23:2: cannot find package "github.com/multiformats/go-multiaddr-dns" in any of:
+	/usr/local/go/src/github.com/multiformats/go-multiaddr-dns (from $GOROOT)
+	/home/hank/go/src/github.com/multiformats/go-multiaddr-dns (from $GOPATH)
+../../p2p/local.go:12:2: cannot find package "github.com/multiformats/go-multiaddr-net" in any of:
+	/usr/local/go/src/github.com/multiformats/go-multiaddr-net (from $GOROOT)
+	/home/hank/go/src/github.com/multiformats/go-multiaddr-net (from $GOPATH)
+../../core/commands/cmdenv/cidbase.go:11:2: cannot find package "github.com/multiformats/go-multibase" in any of:
+	/usr/local/go/src/github.com/multiformats/go-multibase (from $GOROOT)
+	/home/hank/go/src/github.com/multiformats/go-multibase (from $GOPATH)
+../../namesys/namesys.go:16:2: cannot find package "github.com/multiformats/go-multihash" in any of:
+	/usr/local/go/src/github.com/multiformats/go-multihash (from $GOROOT)
+	/home/hank/go/src/github.com/multiformats/go-multihash (from $GOPATH)
+../../plugin/tracer.go:4:2: cannot find package "github.com/opentracing/opentracing-go" in any of:
+	/usr/local/go/src/github.com/opentracing/opentracing-go (from $GOROOT)
+	/home/hank/go/src/github.com/opentracing/opentracing-go (from $GOPATH)
+../../core/corehttp/metrics.go:9:2: cannot find package "github.com/prometheus/client_golang/prometheus" in any of:
+	/usr/local/go/src/github.com/prometheus/client_golang/prometheus (from $GOROOT)
+	/home/hank/go/src/github.com/prometheus/client_golang/prometheus (from $GOPATH)
+../../core/corehttp/metrics.go:10:2: cannot find package "github.com/prometheus/client_golang/prometheus/promhttp" in any of:
+	/usr/local/go/src/github.com/prometheus/client_golang/prometheus/promhttp (from $GOROOT)
+	/home/hank/go/src/github.com/prometheus/client_golang/prometheus/promhttp (from $GOPATH)
+../../plugin/plugins/levelds/levelds.go:12:2: cannot find package "github.com/syndtr/goleveldb/leveldb/opt" in any of:
+	/usr/local/go/src/github.com/syndtr/goleveldb/leveldb/opt (from $GOROOT)
+	/home/hank/go/src/github.com/syndtr/goleveldb/leveldb/opt (from $GOPATH)
+../../namesys/publisher.go:21:2: cannot find package "github.com/whyrusleeping/base32" in any of:
+	/usr/local/go/src/github.com/whyrusleeping/base32 (from $GOROOT)
+	/home/hank/go/src/github.com/whyrusleeping/base32 (from $GOPATH)
+../../core/core.go:77:2: cannot find package "github.com/whyrusleeping/go-smux-multiplex" in any of:
+	/usr/local/go/src/github.com/whyrusleeping/go-smux-multiplex (from $GOROOT)
+	/home/hank/go/src/github.com/whyrusleeping/go-smux-multiplex (from $GOPATH)
+../../core/core.go:78:2: cannot find package "github.com/whyrusleeping/go-smux-yamux" in any of:
+	/usr/local/go/src/github.com/whyrusleeping/go-smux-yamux (from $GOROOT)
+	/home/hank/go/src/github.com/whyrusleeping/go-smux-yamux (from $GOPATH)
+../../core/commands/sysdiag.go:14:2: cannot find package "github.com/whyrusleeping/go-sysinfo" in any of:
+	/usr/local/go/src/github.com/whyrusleeping/go-sysinfo (from $GOROOT)
+	/home/hank/go/src/github.com/whyrusleeping/go-sysinfo (from $GOPATH)
+../../core/core.go:79:2: cannot find package "github.com/whyrusleeping/multiaddr-filter" in any of:
+	/usr/local/go/src/github.com/whyrusleeping/multiaddr-filter (from $GOROOT)
+	/home/hank/go/src/github.com/whyrusleeping/multiaddr-filter (from $GOPATH)
+../../core/commands/get.go:21:2: cannot find package "github.com/whyrusleeping/tar-utils" in any of:
+	/usr/local/go/src/github.com/whyrusleeping/tar-utils (from $GOROOT)
+	/home/hank/go/src/github.com/whyrusleeping/tar-utils (from $GOPATH)
+util/ulimit_unix.go:6:2: cannot find package "golang.org/x/sys/unix" in any of:
+	/usr/local/go/src/golang.org/x/sys/unix (from $GOROOT)
+	/home/hank/go/src/golang.org/x/sys/unix (from $GOPATH)
+../../core/commands/add.go:19:2: cannot find package "gopkg.in/cheggaaa/pb.v1" in any of:
+	/usr/local/go/src/gopkg.in/cheggaaa/pb.v1 (from $GOROOT)
+	/home/hank/go/src/gopkg.in/cheggaaa/pb.v1 (from $GOPATH)
+exit status 1
+Process exiting with code: 1
+
