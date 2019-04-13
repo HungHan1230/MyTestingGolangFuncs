@@ -48,7 +48,7 @@ func writeToFile(fileName string, content string) {
 	if err != nil {
 		fmt.Printf("write err : %v\n", err)
 	} else {
-		fmt.Println("write success.\n")
+		fmt.Println("write success.")
 	}
 }
 
